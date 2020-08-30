@@ -9,5 +9,18 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EthereumRPC\\": [
+                "src"
+            ],
+            "HttpClient\\": [
+                "src"
+            ],
+            "ERC20\\": [
+                "src"
+            ]
+        }
+    }
 }
