@@ -1,0 +1,13 @@
+{
+    "name": "taosh/eth_rpc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "乃匋",
+            "email": "977579156@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
